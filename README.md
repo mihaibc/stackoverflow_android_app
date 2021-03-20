@@ -1,2 +1,2 @@
-# stackoverflow_android_app
+# Stackoverflow Android App
 Android application for https://stackoverflow.com/ 
